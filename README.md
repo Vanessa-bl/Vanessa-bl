@@ -12,7 +12,7 @@
 </p>
 
 
-## 🌐 Socials:
+## Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@Vanessa-bl/) 
 
 # 💻 Tech Stack:

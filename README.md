@@ -5,9 +5,11 @@
 💻 Several years of experience.<br/>
 🌱 Currently learning about backend and data.
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessa-bl&show_icons=true&theme=tokyonight&hide_rank=false)
 
-
+<p>
+  <img height="180" src="https://github-readme-stats-eight-green-48.vercel.app/api?username=Vanessa-bl&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" /><br>
+  <img height="195" src="https://github-readme-stats-eight-green-48.vercel.app/api/top-langs/?username=Vanessa-bl&layout=compact&langs_count=8&include_forks=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 
 ## 🌐 Socials:

@@ -5,7 +5,7 @@
 - 💻 Several years of experience.
 - 🌱 Currently learning about backend and data.
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessa-bl&show_icons=true&theme=tokyonight&hide_rank=false)
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanessa-bl&show_icons=true&theme=synthwave&hide_rank=false)
 
 
 
